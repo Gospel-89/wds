@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Wave Digital Services",
-    "currentPage": "wds.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -58,7 +58,7 @@
     "publishEditFolder": false
   },
   "pages": {
-    "wds.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Waves digital services",
